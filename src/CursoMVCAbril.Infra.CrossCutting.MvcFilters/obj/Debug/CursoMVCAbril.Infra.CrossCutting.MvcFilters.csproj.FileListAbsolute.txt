@@ -1,0 +1,5 @@
+C:\Users\Heisenberg\Documents\CursoMVCAbril\CursoMVCAbril\src\CursoMVCAbril.Infra.CrossCutting.MvcFilters\bin\Debug\CursoMVCAbril.Infra.CrossCutting.MvcFilters.dll
+C:\Users\Heisenberg\Documents\CursoMVCAbril\CursoMVCAbril\src\CursoMVCAbril.Infra.CrossCutting.MvcFilters\bin\Debug\CursoMVCAbril.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\Heisenberg\Documents\CursoMVCAbril\CursoMVCAbril\src\CursoMVCAbril.Infra.CrossCutting.MvcFilters\obj\Debug\CursoMVCAbril.Infra.CrossCutting.MvcFilters.dll
+C:\Users\Heisenberg\Documents\CursoMVCAbril\CursoMVCAbril\src\CursoMVCAbril.Infra.CrossCutting.MvcFilters\obj\Debug\CursoMVCAbril.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\Heisenberg\Documents\CursoMVCAbril\CursoMVCAbril\src\CursoMVCAbril.Infra.CrossCutting.MvcFilters\obj\Debug\CursoMVCAbril.Infra.CrossCutting.MvcFilters.csprojResolveAssemblyReference.cache

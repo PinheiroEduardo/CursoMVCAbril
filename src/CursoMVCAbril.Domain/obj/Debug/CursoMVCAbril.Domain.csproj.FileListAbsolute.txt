@@ -1,0 +1,4 @@
+C:\Users\Heisenberg\Documents\CursoMVCAbril\CursoMVCAbril\src\CursoMVCAbril.Domain\bin\Debug\CursoMVCAbril.Domain.dll
+C:\Users\Heisenberg\Documents\CursoMVCAbril\CursoMVCAbril\src\CursoMVCAbril.Domain\bin\Debug\CursoMVCAbril.Domain.pdb
+C:\Users\Heisenberg\Documents\CursoMVCAbril\CursoMVCAbril\src\CursoMVCAbril.Domain\obj\Debug\CursoMVCAbril.Domain.dll
+C:\Users\Heisenberg\Documents\CursoMVCAbril\CursoMVCAbril\src\CursoMVCAbril.Domain\obj\Debug\CursoMVCAbril.Domain.pdb
