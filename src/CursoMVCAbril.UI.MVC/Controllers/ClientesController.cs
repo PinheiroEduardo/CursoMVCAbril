@@ -63,9 +63,9 @@ namespace CursoMVCAbril.UI.MVC.Controllers
                 
                 if (!result.IsValid)
                 {
-                    foreach (var validationError in result.Erros)
+                    foreach (var validationAppError in result.Erros)
                     {
-                        ModelState.AddModelError(string.Empty, validationError.Message);
+                        ModelState.AddModelError(string.Empty, validationAppError.Message);
                     }
                     return View(clienteEnderecoViewModel);
                 }

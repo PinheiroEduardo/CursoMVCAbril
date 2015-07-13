@@ -11,10 +11,19 @@
 {
     @Html.AntiForgeryToken()
     
+     if (ViewData.ModelState[""] != null && ViewData.ModelState[""].Errors.Count > 0)
+     {
+         <div class="alert alert-danger">
+             <button type="button" class="close" data-dismiss="alert">x</button>
+             <h3>Opa! Alguma coisa não deu certo:</h3>
+             @Html.ValidationSummary(true)
+         </div>
+     }
+    
     <div class="form-horizontal">
         <h3>Cliente</h3>
         <hr />
-        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+         @*@Html.ValidationSummary(true, "", new { @class = "text-danger" })*@
         <div class="form-group">
             @Html.LabelFor(model => model.Nome, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
